@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1585151004 source:d:\studia\ii\aisd pro\algorytm konika szachowego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+
+1585151234 source:f:\projekt\aisd pro\algorytm konika szachowego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+
+1587665558 source:f:\studia\semestr 2\projekt\aisd pro\algorytm konika szachowego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+
+1587678645 source:c:\users\marek\desktop\konik 1.5\algorytm konika szachowego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+
+1591200913 source:c:\users\marek\desktop\algorytm konika szachowego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+
